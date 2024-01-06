@@ -1,6 +1,3 @@
-To create a README file for your GitHub repository documenting your calculator project, you'll want to describe what the project does, how to use it, and possibly any dependencies or prerequisites needed. Here's a template you could use:
-
-```markdown
 # Calculator Project
 
 This simple calculator project is built using Streamlit. It provides basic arithmetic operations: addition, subtraction, multiplication, and division.
@@ -18,7 +15,7 @@ This simple calculator project is built using Streamlit. It provides basic arith
 streamlit run ui.py
 ```
 
-4. Access the calculator through the provided Streamlit interface in your browser.
+Access the calculator through the provided Streamlit interface in your browser.
 
 ## Operations Supported
 - **Addition**: Adds two numbers.
